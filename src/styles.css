@@ -1,0 +1,5 @@
+.product-wrapper {
+  height: 600px;
+  width: 700px;
+  overflow-y: scroll;
+}
